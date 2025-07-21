@@ -2,10 +2,9 @@
 
 ## About Me
 
-I'm a passionate **Software Engineer** with experience in **Full-Stack Development**. I have worked with **React.js**, **Node.js**, **Express.js**, and **Firebase**. I love problem-solving and learning new technologies. Currently, I'm exploring **PHP**, **Laravel**, and **ASP.NET Core**.
+I'm a passionate **Software Engineer** with experience in **Full-Stack Development**. I have worked with **React.js**, **Node.js**, **Express.js**,**Laravel**,**ASP.NET CORE** and **Firebase**. I love problem-solving and learning new technologies. Currently, I'm exploring **PHP**, **Laravel**, and **ASP.NET Core**.
 
 - 🔭 I’m currently working on [NewsPortal](https://dragon-news-772e7.web.app/), a news portal built with React.js, Node.js, and Firebase.
-- 🌱 I’m learning more about **Cloud Computing** and **DevOps**.
 - ⚡ Fun fact: I love playing chess and solving complex algorithms.
 
 ## Skills
@@ -25,8 +24,8 @@ I'm a passionate **Software Engineer** with experience in **Full-Stack Developme
 ## Get in Touch
 
 - 📫 You can reach me via email: shah.mahmud.raian@example.com
-- 💼 Check out my [LinkedIn](#)
-- 🐦 Follow me on [Twitter](#)
+- 💼 Check out my [LinkedIn](https://www.linkedin.com/in/mahmudraian/)
+
 
 ## Let's Connect!
 
